@@ -1,102 +1,100 @@
-A7K9-2M4N-P6R3|xX_Shadow_Xx|qwe123|42|14 дней
-B8L0-3N5O-Q7S4|killer228|123456|157|1 месяц
-C1M2-4P6R-S9T5|dragon_slayer|qwerty|891|навсегда
-D3N4-5Q7S-T0U6|night_hunter|abcde|34|нету
-E5O6-6R8U-V1W7|blade_master|12345|672|14 дней
-F7P8-7S9W-X2Y8|ghost_pro|0000|503|1 месяц
-G9Q0-8T0X-Y3Z9|vortex_666|11111|129|навсегда
-H1R2-9U1Z-A4B0|shooter_77|pass123|888|нету
-I3S4-0V2B-B5C1|metal_core|98765|74|14 дней
-J5T6-1W3C-C6D2|hell_raiser|qazwsx|415|1 месяц
-K7U8-2X4D-D7E3|strike_force|zxcvbn|932|навсегда
-L9V0-3Y5E-E8F4|predator007|54321|22|нету
-M1W2-4Z6F-F9G5|cyber_warrior|112233|756|14 дней
-N3X4-5A7G-G0H6|dark_angel|223344|10|1 месяц
-O5Y6-6B8H-H1I7|phantom_1999|334455|684|навсегда
-P7Z8-7C9I-I2J8|war_machine|445566|343|нету
-Q9A0-8D0J-J3K9|stormbreaker|556677|77|14 дней
-R1B2-9E1K-K4L0|iron_fist|667788|521|1 месяц
-S3C4-0F2L-L5M1|doom_guy|778899|408|навсегда
-T5D6-1G3M-M6N2|venom_77|889900|19|нету
-U7E8-2H4N-N7O3|shadow_strike|990011|863|14 дней
-V9F0-3I5O-O8P4|thunder_bolt|121212|295|1 месяц
-W1G2-4J6P-P9Q5|winter_fox|232323|112|навсегда
-X3H4-5K7Q-Q0R6|silent_sniper|343434|740|нету
-Y5I6-6L8R-R1S7|death_note|454545|55|14 дней
-Z7J8-7M9S-S2T8|crimson_king|565656|666|1 месяц
-A9K0-8N0T-T3U9|black_widow|676767|398|навсегда
-B1L2-9O1U-U4V0|fire_storm|787878|204|нету
-C3M4-0P2V-V5W1|rage_quit|898989|877|14 дней
-D5N6-1Q3W-W6X2|zero_cool|909090|46|1 месяц
-E7O8-2R4X-X7Y3|cyber_demon|010101|759|навсегда
-F9P0-3S5Y-Y8Z4|machine_gun|121212|33|нету
-G1Q2-4T6Z-Z9A5|psycho_man|232323|682|14 дней
-H3R4-5U7A-A0B6|battle_cry|343434|410|1 месяц
-I5S6-6V8B-B1C7|nightmare_x|454545|99|навсегда
-J7T8-7W9C-C2D8|overkill_88|565656|555|нету
-K9U0-8X0D-D3E9|soul_reaper|676767|812|14 дней
-L1V2-9Y1E-E4F0|dark_side|787878|781|1 месяц
-M3W4-0Z2F-F5G1|blood_rage|898989|17|навсегда
-N5X6-1A3G-G6H2|rapid_fire|909090|634|нету
-O7Y8-2B4H-H7I3|titan_fall|010101|927|14 дней
-P9Z0-3C5I-I8J4|venomous|121212|128|1 месяц
-Q1A2-4D6J-J9K5|grim_reaper|232323|470|навсегда
-R3B4-5E7K-K0L6|bullet_time|343434|33|нету
-S5C6-6F8L-L1M7|chaos_agent|454545|702|14 дней
-T7D8-7G9M-M2N8|fusion_core|565656|589|1 месяц
-U9E0-8H0N-N3O9|neon_demon|676767|944|навсегда
-V1F2-9I1O-O4P0|omega_man|787878|20|нету
-W3G4-0J2P-P5Q1|delta_force|898989|366|14 дней
-X5H6-1K3Q-Q6R2|alpha_hunter|909090|876|1 месяц
-Y7I8-2L4R-R7S3|beta_crusher|010101|51|навсегда
-Z9J0-3M5S-S8T4|gamma_ray|121212|438|нету
-A1K2-4N6T-T9U5|sigma_zero|232323|790|14 дней
-B3L4-5O7U-U0V6|omega_x|343434|152|1 месяц
-C5M6-6P8V-V1W7|alpha_omega|454545|613|навсегда
-D7N8-7Q9W-W2X8|dr_frag|565656|84|нету
-E9O0-8R0X-X3Y9|mr_kill|676767|375|14 дней
-F1P2-9S1Y-Y4Z0|saw_king|787878|726|1 месяц
-G3Q4-0T2Z-Z5A1|axe_murderer|898989|995|навсегда
-H5R6-1U3A-A6B2|chain_saw|909090|19|нету
-I7S8-2V4B-B7C3|hammer_time|010101|508|14 дней
-J9T0-3W5C-C8D4|sword_fish|121212|677|1 месяц
-K1U2-4X6D-D9E5|laser_tag|232323|463|навсегда
-L3V4-5Y7E-E0F6|bomb_squad|343434|22|нету
-M5W6-6Z8F-F1G7|mine_field|454545|834|14 дней
-N7X8-7A9G-G2H8|c4_man|565656|300|1 месяц
-O9Y0-8B0H-H3I9|flash_point|676767|771|навсегда
-P1Z2-9C1I-I4J0|fire_wall|787878|16|нету
-Q3A4-0D2J-J5K1|ice_cold|898989|546|14 дней
-R5B6-1E3K-K6L2|rock_star|909090|680|1 месяц
-S7C8-2F4L-L7M3|dust_devil|010101|932|навсегда
-T9D0-3G5M-M8N4|sand_storm|121212|4|нету
-U1E2-4H6N-N9O5|wind_rider|232323|179|14 дней
-V3F4-5I7O-O0P6|storm_chaser|343434|851|1 месяц
-W5G6-6J8P-P1Q7|rain_dance|454545|63|навсегда
-X7H8-7K9Q-Q2R8|sun_killer|565656|947|нету
-Y9I0-8L0R-R3S9|moon_hunter|676767|28|14 дней
-Z1J2-9M1S-S4T0|star_dust|787878|629|1 месяц
-A3K4-0N2T-T5U1|comet_tail|898989|109|навсегда
-B5L6-1O3U-U6V2|nebula_x|909090|873|нету
-C7M8-2P4V-V7W3|galaxy_rider|010101|44|14 дней
-D9N0-3Q5W-W8X4|cosmic_boy|121212|355|1 месяц
-E1O2-4R6X-X9Y5|orbit_king|232323|601|навсегда
-F3P4-5S7Y-Y0Z6|gravity_man|343434|7|нету
-G5Q6-6T8Z-Z1A7|quantum_x|454545|551|14 дней
-H7R8-7U9A-A2B8|photon_gun|565656|139|1 месяц
-I9S0-8V0B-B3C9|neutron_rock|676767|48|навсегда
-J1T2-9W1C-C4D0|proton_ice|787878|234|нету
-K3U4-0X2D-D5E1|electron_fire|898989|709|14 дней
-L5V6-1Y3E-E6F2|dynamo_core|909090|585|1 месяц
-M7W8-2Z4F-F7G3|volt_rage|010101|812|навсегда
-N9X0-3A5G-G8H4|amp_man|121212|19|нету
-O1Y2-4B6H-H9I5|watt_killer|232323|673|14 дней
-P3Z4-5C7I-I0J6|joule_force|343434|422|1 месяц
-Q5A6-6D8J-J1K7|ohm_rider|454545|96|навсегда
-R7B8-7E9K-K2L8|farad_king|565656|731|нету
-S9C0-8F0L-L3M9|tesla_x|676767|18|14 дней
-T1D2-9G1M-M4N0|edison_man|787878|395|1 месяц
-U3E4-0H2N-N5O1|bell_fire|898989|507|навсегда
-V5F6-1I3O-O6P2|morse_code|909090|84|нету
-W7G8-2J4P-P7Q3|signal_hunter|010101|602|14 дней
-X9H0-3K5Q-Q8R4|pulse_killer|121212|449|1 месяц
+admin|12345|1001|30
+user|qwerty|1002|0
+vip|pass123|1003|9999
+test|test|1004|14
+pro|pro123|1005|30
+sigma|sigma69|1006|0
+alpha|alpha69|1007|9999
+beta|beta123|1008|14
+gamma|gamma321|1009|30
+delta|delta456|1010|0
+epsilon|epsilon789|1011|9999
+zeta|zeta147|1012|14
+eta|eta258|1013|30
+theta|theta369|1014|0
+iota|iota159|1015|9999
+kappa|kappa753|1016|14
+lambda|lambda159|1017|30
+mu|mu753|1018|0
+nu|nu951|1019|9999
+xi|xi357|1020|14
+omicron|omicron123|1021|30
+pi|pi456|1022|0
+rho|rho789|1023|9999
+sigma2|sigma2|1024|14
+tau|tau147|1025|30
+upsilon|upsilon258|1026|0
+phi|phi369|1027|9999
+chi|chi159|1028|14
+psi|psi753|1029|30
+omega|omega951|1030|0
+hardcore|hardcore69|1031|9999
+nightmare|nightmare123|1032|14
+shadow|shadow456|1033|30
+dark|dark789|1034|0
+light|light147|1035|9999
+fire|fire258|1036|14
+ice|ice369|1037|30
+storm|storm159|1038|0
+thunder|thunder753|1039|9999
+wind|wind951|1040|14
+earth|earth123|1041|30
+water|water456|1042|0
+air|air789|1043|9999
+void|void147|1044|14
+chaos|chaos258|1045|30
+order|order369|1046|0
+balance|balance159|1047|9999
+rage|rage753|1048|14
+fury|fury951|1049|30
+wrath|wrath123|1050|0
+vengeance|vengeance456|1051|9999
+justice|justice789|1052|14
+mercy|mercy147|1053|30
+hope|hope258|1054|0
+faith|faith369|1055|9999
+destiny|destiny159|1056|14
+fate|fate753|1057|30
+killer|killer951|1058|0
+hunter|hunter123|1059|9999
+sniper|sniper456|1060|14
+ghost|ghost789|1061|30
+phantom|phantom147|1062|0
+spectre|spectre258|1063|9999
+reaper|reaper369|1064|14
+demon|demon159|1065|30
+angel|angel753|1066|0
+god|god951|1067|9999
+hero|hero123|1068|14
+legend|legend456|1069|30
+myth|myth789|1070|0
+dragon|dragon147|1071|9999
+tiger|tiger258|1072|14
+lion|lion369|1073|30
+wolf|wolf159|1074|0
+eagle|eagle753|1075|9999
+shark|shark951|1076|14
+bear|bear123|1077|30
+fox|fox456|1078|0
+raven|raven789|1079|9999
+crow|crow147|1080|14
+hawk|hawk258|1081|30
+owl|owl369|1082|0
+snake|snake159|1083|9999
+cobra|cobra753|1084|14
+viper|viper951|1085|30
+python|python123|1086|0
+anaconda|anaconda456|1087|9999
+boa|boa789|1088|14
+mamba|mamba147|1089|30
+croc|croc258|1090|0
+alligator|alligator369|1091|9999
+lizard|lizard159|1092|14
+gecko|gecko753|1093|30
+iguana|iguana951|1094|0
+chameleon|chameleon123|1095|9999
+komodo|komodo456|1096|14
+monitor|monitor789|1097|30
+skink|skink147|1098|0
+newt|newt258|1099|9999
+salamander|salamander369|1100|14
